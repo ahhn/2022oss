@@ -9,7 +9,7 @@
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uxhjjHUQ6Jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 3. ChronoFloTimeline 활용하여 타임라인 만들기(13:34)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/uxhjjHUQ6Jw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LOLS0qOHcYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## 참고 사이트
 - Juxtapose - https://juxtapose.knightlab.com/
