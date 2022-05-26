@@ -11,9 +11,13 @@
 ## 3. ChronoFloTimeline 활용하여 타임라인 만들기(13:34)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LOLS0qOHcYU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+## 4. Neatline 지도 만들기(17:30) (김한효 제작)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sCcty_fyaX0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## 참고 사이트
 - Juxtapose - https://juxtapose.knightlab.com/
 - ChronoFloTimeline - https://www.chronoflotimeline.com/
+- Neatline - https://neatline.org/
 - 강의 깃허브 : [https://github.com/ahhn/2021oss/](https://github.com/ahhn/2020oss/)
 - Omeka.net (가입형) : [https://omeka.net](https://omeka.net)
 - Omeka Classic (설치형) : [https://omeka.org](https://omeka.org)
